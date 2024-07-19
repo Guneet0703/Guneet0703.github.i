@@ -2,6 +2,11 @@ Warm greetings to everyone
 This is the discription of **STUDENT INDUCTION PROGRAMME**
 | Date | Lecture| Description |
 | ----------- | ----------- | ----------- |
+| 11/07/2024 | Dr.Arvind Dhingra | fun activities and some enlightening words |
+| 11/07/2024 | Dr.Parminder Singh | kkk |
+| 11/07/2024 |Dr.H S Rai | insight of coding world |
+| 12/07/2024 | Maths(SM) | basic derivative |
+UHV(JK) |
 | 15/07/2024 | Dr.Randhir Singh | how to make github pages |
 | 15/07/2024 | Dr.Pyare Lal | kkk |
 | 15/07/2024 | Mr.Sony Goyal | rules for success-give your hundred percent,do what you love and love what you do |
