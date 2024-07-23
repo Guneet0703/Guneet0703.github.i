@@ -6,7 +6,7 @@ This is the discription of **STUDENT INDUCTION PROGRAMME**
 | 10/07/2024 | kkk | grab the opportunities immediately |
 |10/07/2024 | kkk | Motivation with help of his experience |
 | 11/07/2024 | Dr.Arvind Dhingra | fun activities and some enlightening words |
-| 11/07/2024 | Dr.Parminder Singh | kkk |
+| 11/07/2024 | Dr.Parminder Singh | Rule for success-no tension full attention |
 | 11/07/2024 |Dr.H S Rai | insight of coding world |
 | 12/07/2024 | Maths(SM) | basic derivative |
 | 12/07/2024 | UHV(JK) | basic about Universal Human Values |
@@ -21,6 +21,11 @@ This is the discription of **STUDENT INDUCTION PROGRAMME**
 | 18/07/2024 | Maths(RB) | basic integration |
 | 18/07/2024 | Dr.Harwinder Singh | highlights of NCC 
 | 18/07/2024 | Jasvir Singh Grewal | call to join NSS |
-| 19/07/2024 |Er.Kanwardeep Kaur | kkk|
-|19/07/2024 | Jaswinder Singh | kkk|
-| 19/07/2024 | Department visit | kkk|
+| 19/07/2024 |Er.Kanwardeep Kaur | Knowledge needed for industrial sector|
+|19/07/2024 | Jaswinder Singh | explained concepts of maths and science in most fun and understanding manner |
+| 19/07/2024 | Department visit | about department and labs tour |
+| 22/07/2024 | Dr.S.B Singh| activity to improve determination |
+|22/07/2024 | Pushpinder Singh | kkk |
+| 22/07/2024 | kkk | motivate to save environment |
+|23/07/2024 | Maths(SS) | Definate integration and some tricks |
+| 23/07/2024 | peer interaction (Canva) | kkk |
