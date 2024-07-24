@@ -28,4 +28,5 @@ This is the discription of **STUDENT INDUCTION PROGRAMME**
 |22/07/2024 | Pushpinder Singh | kkk |
 | 22/07/2024 | kkk | motivate to save environment |
 |23/07/2024 | Maths(SS) | Definate integration and some tricks |
-| 23/07/2024 | peer interaction (Canva) | how to make creative tamplet, poster etc. ||
+| 23/07/2024 | peer interaction (Canva) | how to make creative tamplet, poster etc. |
+![1000001520](https://github.com/user-attachments/assets/1e38be69-d767-476e-8b81-503980a201bb)
