@@ -1,10 +1,10 @@
 Warm greetings to everyone 
 This is the discription of **STUDENT INDUCTION PROGRAMME**
+4 year journey started with blessings of God 
+
 | Date | Lecture| Description |
-| ----------- | ----------- | ----------- |
-| 10/07/2024 | Gurbani Path | blessings of God |
-| 10/07/2024 | kkk | grab the opportunities immediately |
-|10/07/2024 | kkk | Motivation with help of his experience |
+| ----------- | ----------- | ----------- | 
+
 | 11/07/2024 | Dr.Arvind Dhingra | fun activities and some enlightening words |
 | 11/07/2024 | Dr.Parminder Singh | Rule for success-no tension full attention |
 | 11/07/2024 |Dr.H S Rai | insight of coding world |
