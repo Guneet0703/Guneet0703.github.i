@@ -25,13 +25,15 @@ This is the discription of **STUDENT INDUCTION PROGRAMME**
 |19/07/2024 | Jaswinder Singh | explained concepts of maths and science in most fun and understanding manner |
 | 19/07/2024 | Department visit | about department and labs tour |
 | 22/07/2024 | Dr.S.B Singh| activity to improve determination |
-|22/07/2024 | Pushpinder Singh | kkk |
-| 22/07/2024 | kkk | motivate to save environment |
+|22/07/2024 | Pushpinder Singh | teach about type of studies |
+| 22/07/2024 | Architect prasad vaidya | motivate to save environment |
 |23/07/2024 | Maths(SS) | Definate integration and some tricks |
 | 23/07/2024 | peer interaction (Canva) | how to make creative tamplet, poster etc. |
-| 24/07/2024 | kkk | kkk |
-| 24/06/2024 | kkk | kkk |
-| 24/07/2024 | kkk | kkk |
+| 24/07/2024 | Mr.Gauravdeep Singh | Importance of being happy |
+| 24/06/2024 | Lakhwir Singh | Importance of interacting with resource person |
+| 25/07/2024 | universal Human Value| harmony |
+| 25/07/2024 | peer interaction | various details about college explained |
+| 26/07/2024 | Dr.kawardeep kaur | Benefits of homeopathic treatment |
 
 
 ![1000001520](https://github.com/user-attachments/assets/1e38be69-d767-476e-8b81-503980a201bb)
