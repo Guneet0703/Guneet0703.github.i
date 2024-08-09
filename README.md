@@ -1,10 +1,10 @@
 Warm greetings to everyone 
 This is the discription of **STUDENT INDUCTION PROGRAMME**
-4 year journey started with blessings of God 
+
+* This 4 year journey started with blessings of God on 10/07/2024*
 
 | Date | Lecture| Description |
 | ----------- | ----------- | ----------- | 
-
 | 11/07/2024 | Dr.Arvind Dhingra | fun activities and some enlightening words |
 | 11/07/2024 | Dr.Parminder Singh | Rule for success-no tension full attention |
 | 11/07/2024 |Dr.H S Rai | insight of coding world |
